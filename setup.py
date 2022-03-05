@@ -17,7 +17,7 @@ except ImportError:
 
 setup(
     name='pdfquery',
-    version='0.4.3',
+    version='0.4.4',
     author=u'Jack Cushman',
     author_email='jcushman@gmail.com',
     packages=find_packages(),
